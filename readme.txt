@@ -1,2 +1,2 @@
 This is a test project.
-I need tea.
+I need tea and hot chocolate.
